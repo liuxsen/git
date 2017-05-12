@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 测试一下
 在测试一下
 修改一下
+我要修改一个bug
